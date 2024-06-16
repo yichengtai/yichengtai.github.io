@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<h2>Postdoctoral Associate </h2>
-<h2>Department of Statistics and Data Science</h2>
-<h2>Cornell University</h2>
+> ### Postdoctoral Associate
+> ### Department of Statistics and Data Science
+> ### Cornell University
 
 I am a postdoctoral associate in the Department of Statistics and Data Science (SDS) at Cornell University, collaborating with Martin T. Wells. My research is centered on survival analysis, with a particular emphasis on addressing nonproportional hazard issues in the context of novel immunotherapies for oncology trials. This includes the nonparametric estimation of causal estimands with covariate adjustment, leveraging machine learning techniques to ensure efficiency gains. Additionally, I have a strong interest in general semiparametric efficiency theory, machine learning, coarsening data, causal inference and adaptations to covariate-adaptive randomization. 
 
