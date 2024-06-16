@@ -16,12 +16,10 @@ redirect_from:
   Postdoctoral Associate <br> 
   Department of Statistics and Data Science <br> 
   Cornell University <br>
-  <font size="3">
-    yt645@cornell.edu <br>
-    Research Interest: Survival Analysis, Covariate Adjustment, Efficiency Theory, Machine Learning, Causal Inference<br>
-  </font>
 </p>  
 
+yt645@cornell.edu <br>
+Research Interest: Survival Analysis, Covariate Adjustment, Efficiency Theory, Machine Learning, Causal Inference <br>
 
  
 
