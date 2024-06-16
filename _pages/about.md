@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-# Postdoctoral Associate
-<p style="font-size: 20px;"> Department of Statistics and Data Science <br> Cornell University </p>  
-yt645@cornell.edu
+<p style="font-size: 20px;"> 
+  <b> Postdoctoral Associate </b> 
+  Department of Statistics and Data Science <br> 
+  Cornell University 
+</p>  
+<p> 
+  yt645@cornell.edu <br>
+  Research Interest: Survival Analysis,
+</p>
 
-Research Interest: Survival Analysis, 
+ 
 
 I am a postdoctoral associate in the Department of Statistics and Data Science (SDS) at Cornell University, collaborating with Martin T. Wells. My research is centered on survival analysis, with a particular emphasis on addressing nonproportional hazard issues in the context of novel immunotherapies for oncology trials. This includes the nonparametric estimation of causal estimands with covariate adjustment, leveraging machine learning techniques to ensure efficiency gains. Additionally, I have a strong interest in general semiparametric efficiency theory, machine learning, coarsening data, causal inference and adaptations to covariate-adaptive randomization. 
 
