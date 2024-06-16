@@ -18,7 +18,7 @@ redirect_from:
   Cornell University <br>
   <font>
     yt645@cornell.edu <br>
-    Research Interest: Survival Analysis, <br>
+    Research Interest: Survival Analysis, Covariate Adjustment, Efficiency Theory, Machine Learning, Causal Inference<br>
   </font>
 </p>  
 
