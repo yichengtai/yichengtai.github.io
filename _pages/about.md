@@ -7,15 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: 20px;"> 
-  <b> Postdoctoral Associate </b> 
+<p> 
+  
+  
+</p>
+
+<p style="font-size: 30px;"> 
+  <b> Postdoctoral Associate </b> <br> 
   Department of Statistics and Data Science <br> 
   Cornell University 
+  <font size="-1">
+    yt645@cornell.edu <br>
+    Research Interest: Survival Analysis,
+  </font>
 </p>  
-<p> 
-  yt645@cornell.edu <br>
-  Research Interest: Survival Analysis,
-</p>
+
 
  
 
