@@ -22,22 +22,22 @@ repository               : "yichengtai/yichengtai.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yi-Cheng Tai"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Ithaca, NY"
+  employer         : "Cornell University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yt645@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=5jaND10AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-3298-0552"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # pubmed
+  researchgate     : "https://www.researchgate.net/profile/Yi-Cheng-Tai-3"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
