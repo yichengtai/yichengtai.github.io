@@ -20,8 +20,3 @@ author_profile: true
 
 ## Computer Software
  * <b>Tai Y-C</b>, Wang W, Wells MT. tauProcess (Version 2.1.3) [Computer software]. 2023. doi:10.32614/CRAN.package.tauProcess
-<!-- {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
