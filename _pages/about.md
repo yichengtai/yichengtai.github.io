@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Postdoctoral Associate <br> Department of Statistics and Data Science <br> Cornell University
-**yt645@cornell.edu**
+# Postdoctoral Associate <br> *Department of Statistics and Data Science* <br> *Cornell University*
+t645@cornell.edu
 
 Research Interest: Survival Analysis, 
 
