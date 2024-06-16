@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-07-10
 venue: 'Pharmaceutical Statistics'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: # 'http://doi.org/10.1002/pst.2324'
+paperurl: 'http://doi.org/10.1002/pst.2324'
 citation: 'Tai, Y-C., Wang, W., Wells, M. T. (2023), &quot;Two-sample inference procedures under nonproportional hazards,&quot; <i>Pharmaceutical Statistics</i>, 22(6), 1016-1030.'
 ---
 
