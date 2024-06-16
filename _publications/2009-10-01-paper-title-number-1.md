@@ -3,7 +3,7 @@ title: "Two-sample inference procedures under nonproportional hazards"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-07-10
 venue: 'Pharmaceutical Statistics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://doi.org/10.1002/pst.2324'
