@@ -20,7 +20,7 @@ redirect_from:
 
 I am a postdoctoral associate in the Department of Statistics and Data Science (SDS) at Cornell University, working with <a href="https://stat.cornell.edu/people/faculty/martin-wells" target="_blank">Martin T. Wells</a>. I received my PhD in Statistics from National Yang Ming Chiao Tung University, advised by <a href="https://wjwang.stat.nycu.edu.tw/" target="_blank">Weijing Wang</a>, and BSc in Statistics from National Chengchi University.
 
-My research centers on survival analysis, with a particular emphasis on addressing nonproportional hazard issues in the context of novel immunotherapies for oncology trials. This includes the nonparametric estimation of causal estimands with covariate adjustment, leveraging machine learning techniques to ensure efficiency gains. Additionally, I have a strong interest in general semiparametric efficiency theory, machine learning, coarsened data, causal inference and adaptations to covariate-adaptive randomization. 
+My research centers on survival analysis, with a particular emphasis on addressing nonproportional hazard issues in the context of novel immunotherapies for oncology trials. This includes the nonparametric estimation of causal estimands with covariate adjustment, leveraging machine learning techniques to ensure efficiency gains with censored data. Additionally, I have a strong interest in general semiparametric efficiency theory, machine learning, missing/coarsened data, causal inference and adaptations to covariate-adaptive randomization. 
 
 *Research Interests: Survival Analysis, Efficiency Theory, Machine Learning, Causal Inference* <br>
 
