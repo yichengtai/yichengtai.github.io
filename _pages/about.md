@@ -12,7 +12,7 @@ redirect_from:
 
 </p>
 
-<p style="font-size: 26px;"> 
+<p style="font-size: 24px;"> 
   Postdoctoral Associate <br> 
   Department of Statistics and Data Science <br> 
   Cornell University <br>
