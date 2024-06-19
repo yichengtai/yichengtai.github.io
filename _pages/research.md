@@ -13,3 +13,4 @@ In immunotherapy trials, survival curves for treated and control groups often ex
 ## Tau-Process with Long-Term Survivors
 
 ## Covariate Adjustment with Efficiency Gain Guarantee
+In 2023, the U.S. Food and Drug Administration (FDA) issued guidance titled "Adjustment for Covariates in Randomized Clinical Trials for Drugs and Biological Products." This guidance recommends using prognostic baseline covariates to enhance the efficiency of estimating and testing marginal estimands. By deriving the efficient influence function of the target estimand within a nonparametric model, machine learning techniques can be utilized to approximate this function, allowing for valid statistical inference. Approaches like Targeted Learning and Double/Debiased Machine Learning are based on this rationale. This framework transitions statistical methodology from a model-based approach to an estimand-oriented approach, effectively addressing the scientific questions of interest.
