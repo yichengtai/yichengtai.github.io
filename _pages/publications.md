@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar profile</a>.</div>
-{% endif %}
+{% endif %} -->
 
 ## Statistical Methodology
   * <b>Tai Y-C </b>, Wang W, Wells MT. Two-sample inference procedures under nonproportional hazards. *Pharmaceutical Statistics*. 2023; 22(6): 1016-1030. doi:10.1002/pst.2324
