@@ -16,7 +16,7 @@ author_profile: true
   * <b>Tai Y-C</b>, Wang W, Wells MT. Progression-Free Survival Analysis with a Graphical Estimand Approach in the Phase 2 SAMCO-PRODIGE 54 Trial. *JAMA Oncology*. 2024;10(4):539–540. doi:10.1001/jamaoncol.2024.0002 
 
 ## Manuscripts under Review
- * <b>Tai Y-C</b>, Wang W, Wells MT. Nonparametric inference methods for analyzing survival data with long-term survivors.
+ * <b>Tai Y-C</b>, Wang W, Wells MT. Estimand-based Inference in Presence of Long-Term Survivors. <a> https://arxiv.org/abs/2409.02209 </a>
 
 ## Computer Software
  * <b>Tai Y-C</b>, Wang W, Wells MT. tauProcess (Version 2.1.3) [Computer software]. 2023. doi:10.32614/CRAN.package.tauProcess
