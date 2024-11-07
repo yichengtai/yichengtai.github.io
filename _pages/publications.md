@@ -17,7 +17,6 @@ author_profile: true
 
 ## Manuscripts
  * <b>Tai Y-C</b>, Wang W, Wells MT. Estimand-based Inference in Presence of Long-Term Survivors. <a href="https://arxiv.org/abs/2409.02209"> link </a>
- * <b>Tai Y-C</b>, Tai Y-H, Lee C-H. Exact Confidence Coefficients and Average Coverage Probabilities of Confidence Intervals for a Risk Difference.
 
 ## Computer Software
  * <b>Tai Y-C</b>, Wang W, Wells MT. tauProcess (Version 2.1.3) [Computer software]. 2023. doi:10.32614/CRAN.package.tauProcess <a href="https://doi.org/10.32614/CRAN.package.tauProcess"> link </a>
