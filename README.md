@@ -1,3 +1,5 @@
+To update CV: _data/navigation
+
 
 # Academic Pages
 
