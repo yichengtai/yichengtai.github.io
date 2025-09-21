@@ -13,12 +13,12 @@ redirect_from:
 </p>
 
 <p style="font-size: 20px;"> 
-  Postdoctoral Associate <br> 
-  Department of Statistics and Data Science <br> 
-  Cornell University <br>
-</p>  
+  Assistant Professor <br> 
+  Department of Statistics <br> 
+  National Chengchi University, Taiwan <br>
+</p>
 
-I am a postdoctoral associate in the Department of Statistics and Data Science (SDS) at Cornell University, working with <a href="https://stat.cornell.edu/people/faculty/martin-wells" target="_blank">Martin T. Wells</a>. I received my PhD in Statistics from National Yang Ming Chiao Tung University, advised by <a href="https://wjwang.stat.nycu.edu.tw/" target="_blank">Weijing Wang</a>, and BSc in Statistics from National Chengchi University.
+I am an Assistant Professor in the Department of Statistics at National Chengchi University. Before joining NCCU, I was a Postdoctoral Associate in the Department of Statistics and Data Science at Cornell University, where I worked with <a href="https://stat.cornell.edu/people/faculty/martin-wells" target="_blank">Martin T. Wells</a>. I earned my Ph.D. in Statistics from National Yang Ming Chiao Tung University under the supervision of <a href="https://wjwang.stat.nycu.edu.tw/" target="_blank">Weijing Wang</a>, and my B.Sc. in Statistics from National Chengchi University.
 
 My research centers on survival analysis, with a particular emphasis on addressing nonproportional hazard issues in the context of novel immunotherapies for oncology trials. This includes the nonparametric estimation of causal estimands with covariate adjustment, leveraging machine learning techniques to ensure efficiency gains with survival data. Additionally, I have a strong interest in general semiparametric models, causal inference and machine learning. 
 
