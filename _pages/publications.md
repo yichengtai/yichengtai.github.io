@@ -10,9 +10,10 @@ author_profile: true
 {% endif %} -->
 
 ## Statistical Methodology
-  * <b>Tai Y-C</b>, Wang W, Wells MT. Estimand-based inference in presence of long-term survivors. *Statistical Methods in Medical Research*. In press. <a href="https://arxiv.org/abs/2409.02209"> link </a>
+  * <b>Tai Y-C</b>, Wang W, Wells MT. Estimand-based inference in presence of long-term survivors. *Statistical Methods in Medical Research*. 2025; 34(6): 1178-1191. doi:10.1177/09622802251327686 <a href="https://doi.org/10.1177/09622802251327686"> link </a>
   * <b>Tai Y-C </b>, Wang W, Wells MT. Two-sample inference procedures under nonproportional hazards. *Pharmaceutical Statistics*. 2023; 22(6): 1016-1030. doi:10.1002/pst.2324 <a href="https://doi.org/10.1002/pst.2324"> link </a>
 ## Other Works
+  * <b>Tai Y-C</b>, Wang W, Wolchok JD, Wells MT. A Milestone-Based Framework for Characterizing Time-Varying Treatment Effects in Immunotherapy Trials. *arXiv preprint* <a href="https://arxiv.org/abs/2604.24360"> link </a>
   * <b>Tai Y-C</b>, Wang W, Wells MT. Progression-Free Survival Analysis with a Graphical Estimand Approach in the Phase 2 SAMCO-PRODIGE 54 Trial. *JAMA Oncology*. 2024;10(4):539–540. doi:10.1001/jamaoncol.2024.0002 <a href="https://doi.org/10.1001/jamaoncol.2024.0002"> link </a>
 
 ## Computer Software
