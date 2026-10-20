@@ -10,6 +10,7 @@ author_profile: true
 {% endif %} -->
 
 ## Statistical Methodology
+  * <b>Tai Y-C</b>, Wang W, Wells MT. Pseudo-IPD reconstruction from published Kaplan–Meier curves under unidentified within-interval censoring. *Submitted*.
   * <b>Tai Y-C</b>, Wang W, Wells MT. Estimand-based inference in presence of long-term survivors. *Statistical Methods in Medical Research*. 2025; 34(6): 1178-1191. doi:10.1177/09622802251327686 <a href="https://doi.org/10.1177/09622802251327686"> link </a>
   * <b>Tai Y-C </b>, Wang W, Wells MT. Two-sample inference procedures under nonproportional hazards. *Pharmaceutical Statistics*. 2023; 22(6): 1016-1030. doi:10.1002/pst.2324 <a href="https://doi.org/10.1002/pst.2324"> link </a>
   
