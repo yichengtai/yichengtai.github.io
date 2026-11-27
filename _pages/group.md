@@ -1,7 +1,9 @@
 ---
 layout: archive
 title: "Group"
-permalink: /students/
+permalink: /group/
+redirect_from:
+  - /students/
 author_profile: true
 ---
 

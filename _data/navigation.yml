@@ -1,7 +1,7 @@
 # main links links
 main:
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
     
   - title: "Publications"
     url: /publications/
@@ -13,7 +13,7 @@ main:
     url: /teaching/
 
   - title: "Group"
-    url: /students/
+    url: /group/
     
   # - title: "Projects"
   #   url: /projects/
